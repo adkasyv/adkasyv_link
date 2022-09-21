@@ -59,12 +59,12 @@ h1 {
   padding: 0;
   margin: 0;
 }
-.portfolio__item > p {
+.portfolio__desc {
   font-size: 12px;
   padding: 0;
   margin: 0;
 }
-.portfolio__item > a {
+.portfolio__link {
   text-decoration: none;
   color: white;
   background: rgba(255, 255, 255, 0.16);
@@ -88,7 +88,7 @@ h1 {
   h1 {
     font-size: 18px;
   }
-  .portfolio__item > p {
-    display: none
+  .portfolio__desc {
+    display: none;
   }
 }
